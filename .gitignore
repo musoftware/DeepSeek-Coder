@@ -162,3 +162,4 @@ cython_debug/
 Scripts/**/*
 Scripts/*
 pyvenv.cfg
+share/man/man1/isympy.1
